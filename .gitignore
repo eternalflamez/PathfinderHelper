@@ -28,3 +28,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+PathfinderHelper/Library/
+PathfinderHelper/Temp/
+.localhistory/
